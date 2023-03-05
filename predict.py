@@ -8,7 +8,7 @@ from scipy.io import savemat
 
 sys.path.append(Path.cwd())
 
-from train_torch import MyConvNet, ResidualWrapper, AutoRegressiveWrapper, Wrapper
+from train import MyConvNet, ResidualWrapper, AutoRegressiveWrapper, Wrapper
 from mechanical_system import MechanicalSystem
 
 dataset = 'predict_data.mat'
