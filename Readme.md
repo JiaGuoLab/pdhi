@@ -2,7 +2,7 @@
 
 [![Homepage](https://img.shields.io/badge/Jia's-Homepage-brightgreen)](https://jiaguocv.github.io/)
 
-This source code is for the paper [J. Guo, R. Enokida, D. Li, & K. Ikago. Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning. *Earthquake Engineering and Structural Dynamics*, 2023; 00:1-23](https://doi.org/10.1002/eqe.3863).
+This source code is for the paper [J. Guo, R. Enokida, D. Li, & K. Ikago. Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning. *Earthquake Engineering and Structural Dynamics*, 2023; 1-23](https://doi.org/10.1002/eqe.3863).
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -103,13 +103,12 @@ The seismic response results obtained by PDHI will be saved in the file './resul
 This work is funded by the Japan Society for the Promotion of Science (JSPS).
 If you use this code for academic research, please cite the following paper:
 ```
-@article{guo2023combination,
-  title={Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning},
-  author={Guo J, Enokida R, Li D, Ikago K},
-  journal={Earthquake Engineering Structural Dynamics},
-  volume={00},
-  pages={1-23},
-  year={2023},
-  publisher={Wiley}
+@article{https://doi.org/10.1002/eqe.3863,
+author = {Guo, Jia and Enokida, Ryuta and Li, Dawei and Ikago, Kohju},
+title = {Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning},
+journal = {Earthquake Engineering \& Structural Dynamics},
+doi = {https://doi.org/10.1002/eqe.3863},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3863},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/eqe.3863},
 }
 ```
