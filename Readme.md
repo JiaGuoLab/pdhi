@@ -1,8 +1,9 @@
 # Physics-DNN Hybridized Time-Stepper in Structural Seismic Response Prediction
 
-[![Homepage](https://img.shields.io/badge/Jia's-Homepage-brightgreen)](https://jiaguocv.github.io/)
+[![Homepage](https://img.shields.io/badge/Jia's-Homepage-brightgreen)](https://jiaguocv.github.io/). 
 
 This source code is for the paper [J. Guo, R. Enokida, D. Li, & K. Ikago. Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning. *Earthquake Engineering and Structural Dynamics*, 2023; 1-23](https://doi.org/10.1002/eqe.3863).
+Quick view of the full article, click [here](https://onlinelibrary.wiley.com/share/author/2SEQPPGRSGIXGYMJANEN?target=10.1002/eqe.3863).
 
 ## Table of contents
 * [Introduction](#introduction)
