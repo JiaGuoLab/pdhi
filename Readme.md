@@ -104,12 +104,11 @@ The seismic response results obtained by PDHI will be saved in the file './resul
 This work is funded by the Japan Society for the Promotion of Science (JSPS).
 If you use this code for academic research, please cite the following paper:
 ```
-@article{https://doi.org/10.1002/eqe.3863,
-author = {Guo, Jia and Enokida, Ryuta and Li, Dawei and Ikago, Kohju},
-title = {Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning},
-journal = {Earthquake Engineering \& Structural Dynamics},
-doi = {https://doi.org/10.1002/eqe.3863},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3863},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/eqe.3863},
+@article{guo2023combination,
+  title={Combination of physics-based and data-driven modeling for nonlinear structural seismic response prediction through deep residual learning},
+  author={Guo, Jia and Enokida, Ryuta and Li, Dawei and Ikago, Kohju},
+  journal={Earthquake Engineering \& Structural Dynamics},
+  year={2023},
+  publisher={Wiley Online Library}
 }
 ```
